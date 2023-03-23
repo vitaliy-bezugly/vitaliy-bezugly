@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vitaliy Minaev</h1>
 <h3 align="left">A passionate software student from Ukraine</h3>
 
-- 🔭 I’m currently working on [TaskManager](https://github.com/VitaliyMinaev/TaskManager)
+- 🔭 I’m currently working on [PropertySearch](https://github.com/VitaliyMinaev/PropertySearch)
 
 - 🌱 I’m currently learning **Microservices , Containerization , Design Patterns**
 
