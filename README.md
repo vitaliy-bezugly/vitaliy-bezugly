@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [PropertySearch](https://github.com/VitaliyMinaev/PropertySearch)
 
-- 🌱 I’m currently learning **Microservices , Containerization , Design Patterns**
+- 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Asp .Net Core , Xamarin , Angular , EF Core , Dapper , Deployment**
+- 💬 Ask me about **Asp .Net Core , Angular , EF Core , Dapper , Deployment, Containerization , Design Patterns**
 
 - 📫 How to reach me **vitalii.minaev.dev@gmail.com**
 
