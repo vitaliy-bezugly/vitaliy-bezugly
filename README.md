@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PropertySearch](https://github.com/VitaliyMinaev/PropertySearch)
 
-- 🌱 I’m currently learning **Microservices , .Net Features **
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **Asp .Net Core , Angular , EF Core , Dapper , Deployment, Containerization , Design Patterns**
 
